@@ -1,0 +1,48 @@
+#container{
+    width: 1000px;
+    height: 300px;
+    border: 1px solid grey;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#header{
+    height: 100px;
+    padding: 10px 0;
+}
+
+#brand_name{
+    color: rgb(75, 42, 165);
+    float: left;
+    width: 50%;
+    margin: auto 0;
+}
+
+.text{
+    float: left;
+    font-size: 15px;
+    width: 150px;
+    padding: 5px;
+    color: #E36A0C;
+    background: white url("images/search-icon.png") right center;
+    background-repeat: no-repeat;
+    
+}
+
+.submit{
+    padding: 5px;
+    float: right;
+    font-weight: bold;
+    color: white;
+    background: #A751D6;
+}
+
+#search-bar{
+    float: right;
+    background: linear-gradient(#BCDD5C, #E5ECB7);
+    width: 300px;
+    height: 50px;
+    padding: 15px 15px 0px 15px;
+    margin-top: 20px;
+    
+}
